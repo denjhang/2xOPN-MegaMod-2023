@@ -1,0 +1,13 @@
+*.rom
+*.lst
+*.out
+*.directory
+*.bin
+*.o
+*.bak
+*.err
+*.kicad_pcb-bak
+*.dsn
+*.ses
+*.sch-bak
+fp-info-cache

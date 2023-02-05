@@ -1,0 +1,11 @@
+R1
+Initial Version - 1 prototype manufactured at Ragworm
+R2
+Invert signal coming out of first 74HCT138 - no boards made
+R3
+Increase resistor pin spacing slightly - 20 boards manufactured at Elecrow
+R5
+Change silscreen text, increase pad size from improved solderability
+
+2020-06-19 Existing r5 released under CERN OHL-P v2 with no other changes
+2020-06-24 Rev 6. Add oscillator and MSX mode.
