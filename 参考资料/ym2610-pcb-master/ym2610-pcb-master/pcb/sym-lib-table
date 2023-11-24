@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Toshiba_Optical")(type "Legacy")(uri "${KIPRJMOD}/kicad-lib/Toshiba_Optical.lib")(options "")(descr ""))
+  (lib (name "Yamaha_Synth")(type "Legacy")(uri "${KIPRJMOD}/kicad-lib/Yamaha_Synth.lib")(options "")(descr ""))
+  (lib (name "Switchcraft")(type "Legacy")(uri "${KIPRJMOD}/kicad-lib/Switchcraft.lib")(options "")(descr ""))
+  (lib (name "pkl_module")(type "Legacy")(uri "${KIPRJMOD}/pkl-1bs/pkl_module.lib")(options "")(descr ""))
+  (lib (name "ym2610-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/ym2610-pcb-rescue.kicad_sym")(options "")(descr ""))
+)
